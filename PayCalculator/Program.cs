@@ -1,4 +1,14 @@
-﻿using System;
+﻿/*
+ * Pay Calculator
+ * 
+ * Purpose: to demonstrate getting input from the user
+ * Name:    Tony Theodoropoulos
+ * Revision History: created Jan 28 by Tony Theo...
+ * 
+ */
+
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,7 +19,7 @@ namespace PayCalculator
     internal class Program
     {
         static void Main(string[] args)
-        {
+        { 
             // variable declaration
             string firstName;
             double hours;
